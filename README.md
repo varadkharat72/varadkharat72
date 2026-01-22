@@ -40,7 +40,7 @@ Here are some of the projects I’ve built so far:
 ## 📫 Contact Me
 
 - Email: kharatvarad12@gmail.com
-- GitHub: [varadk72](https://github.com/varadk72)
+- GitHub: [varadk72](https://github.com/varadkharat72)
 
 ---
 
