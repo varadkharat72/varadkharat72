@@ -41,6 +41,7 @@ Here are some of the projects I’ve built so far:
 
 - Email: kharatvarad12@gmail.com
 - GitHub: [varadk72](https://github.com/varadkharat72)
+- LinkedIn: [varad-kharat](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ---
 
