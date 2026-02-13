@@ -1,44 +1,35 @@
-<h1 align="center">VARAD KHARAT</h1>
-<h3 align="center">FRONTEND DEVELOPER</h3>
+# Varad Kharat  
+Frontend Developer
 
 ---
 
-## SYSTEM PROFILE
+## Professional Summary
 
-> Building responsive UI.
-> Writing clean JavaScript.
-> Learning React deeply.
-> Shipping projects consistently.
+Frontend developer skilled in building responsive web applications using HTML, CSS, JavaScript, and React. 
+Strong understanding of UI development principles and API integration.
 
 ---
 
-## TECH ARSENAL
+## Technical Skills
 
-HTML5  
-CSS3  
-JavaScript (ES6+)  
-React.js  
-
----
-
-## ACTIVE PROJECTS
-
-[LinkedIn Clone]  
-[Quiz App]  
-[Weather App]
+Frontend: HTML5, CSS3, JavaScript (ES6+), React  
+Tools: Git, GitHub, VS Code  
+Concepts: DOM Manipulation, REST APIs, Responsive Design  
 
 ---
 
-## PERFORMANCE METRICS
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadkharat72&theme=tokyonight&hide_border=true"/>
-</p>
+LinkedIn Clone – Responsive layout implementation  
+Quiz App – Interactive JavaScript logic  
+Weather App – API data handling and dynamic rendering  
 
 ---
 
-STATUS: Always Learning
+## GitHub Overview
+
+![Stats](https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true)
+
+---
+
+Open to frontend development opportunities.
