@@ -1,44 +1,44 @@
-# Varad Kharat
-
-Frontend Developer
-
----
-
-## About
-
-I build clean, responsive, and user-focused web interfaces using modern frontend technologies.
-Focused on writing structured, maintainable code and continuously improving through real-world projects.
+<h1 align="center">VARAD KHARAT</h1>
+<h3 align="center">FRONTEND DEVELOPER</h3>
 
 ---
 
-## Stack
+## SYSTEM PROFILE
 
-HTML • CSS • JavaScript • React  
-Git • GitHub • VS Code  
-
----
-
-## Selected Work
-
-LinkedIn UI Clone  
-Quiz Application  
-Weather App (API Integrated)
+> Building responsive UI.
+> Writing clean JavaScript.
+> Learning React deeply.
+> Shipping projects consistently.
 
 ---
 
-## Current Focus
+## TECH ARSENAL
 
-• Advanced React  
-• Component Architecture  
-• API Integration  
-• Performance Optimization  
-
----
-
-## GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true&hide_border=true&theme=default)
+HTML5  
+CSS3  
+JavaScript (ES6+)  
+React.js  
 
 ---
 
-“Stay consistent. Improve daily.”
+## ACTIVE PROJECTS
+
+[LinkedIn Clone]  
+[Quiz App]  
+[Weather App]
+
+---
+
+## PERFORMANCE METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadkharat72&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+STATUS: Always Learning
