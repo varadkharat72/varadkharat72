@@ -41,4 +41,4 @@ I’m currently learning web development through hands-on projects and improving
 - LinkedIn: [varad-kharat](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 
---- ⭐ Always learning, building, and improving
+⭐ Always learning, building, and improving
