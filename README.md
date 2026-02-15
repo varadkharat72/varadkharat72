@@ -1,95 +1,91 @@
-👋 Hey, I'm Varad Kharat
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFB2&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+%26+Advanced+JS;Building+Projects+Everyday+🚀" /> </p>
-👨‍💻 About Me
+Varad Kharat
 
-✨ I’m a passionate Frontend Web Developer (Beginner) focused on building clean, responsive and user-friendly interfaces.
+Frontend Web Developer
 
-I love turning ideas into real web experiences using:
+📍 India
+📧 kharatvarad12@gmail.com
 
-💻 HTML
+🔗 GitHub: https://github.com/varadkharat72
 
-🎨 CSS
+🔗 LinkedIn: https://www.linkedin.com/in/varad-kharat
 
-⚡ JavaScript
+Professional Summary
 
-Currently improving my skills by building real-world projects and practicing daily.
+Motivated and detail-oriented Frontend Web Developer with hands-on experience in building responsive and interactive web applications using HTML, CSS, and JavaScript. Strong understanding of DOM manipulation, API integration, and clean code practices. Passionate about continuous learning and developing scalable user interfaces.
 
-🚀 My Projects
-🔹 LinkedIn Clone
+Technical Skills
 
-🛠 Built using HTML & CSS
-
-Practiced layouts
-
-Improved responsive design skills
-
-Strengthened CSS positioning concepts
-
-🔹 Quiz App
-
-🛠 Built using HTML, CSS & JavaScript
-
-DOM manipulation
-
-Event handling
-
-Dynamic question rendering
-
-🔹 Weather App
-
-🛠 Built using HTML, CSS & JavaScript
-
-API integration
-
-Fetch & async handling
-
-Real-time weather data display
-
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github" /> </p>
+Frontend Technologies:
 
 HTML5
 
 CSS3
 
-JavaScript (ES6 Basics)
+JavaScript (ES6 basics)
 
-Git & GitHub
+Core Concepts:
 
-📈 Currently Learning
+DOM Manipulation
 
-🔥 Advanced JavaScript
+Event Handling
 
-📦 Better DOM Practices
+API Integration (Fetch, Async/Await)
 
-🌐 API Handling & Async JavaScript
+Responsive Web Design
 
-📱 Responsive Web Design
+Basic JavaScript Logic
 
-⚛️ Preparing to Learn React
+Tools & Version Control:
 
-🎯 2026 Goals
+Git
 
-Build 10+ real-world projects
+GitHub
 
-Contribute to open-source
+Projects
+LinkedIn Clone
 
-Get a Frontend Developer job
+Technologies: HTML, CSS
 
-Become confident in React
+Developed a responsive layout inspired by LinkedIn.
 
-📫 Connect With Me
+Implemented modern CSS positioning and layout techniques.
 
-📧 Email: kharatvarad12@gmail.com
+Improved understanding of UI structure and design consistency.
 
-💻 GitHub: varadkharat72
+Quiz Application
 
-🔗 LinkedIn: varad-kharat
+Technologies: HTML, CSS, JavaScript
 
-💡 Developer Mindset
+Built an interactive quiz app using DOM manipulation.
 
-“Consistency beats talent when talent doesn’t work consistently.”
+Implemented dynamic question rendering and score calculation.
 
-⭐ Always learning.
-🚀 Always building.
-📈 Always improving.
+Practiced event handling and conditional logic.
+
+Weather Application
+
+Technologies: HTML, CSS, JavaScript, Weather API
+
+Integrated a public weather API to fetch real-time data.
+
+Used Fetch API and async/await for handling asynchronous requests.
+
+Displayed dynamic weather information based on user input.
+
+Currently Learning
+
+Advanced JavaScript
+
+Asynchronous JavaScript (Promises, Async/Await)
+
+Improved DOM optimization practices
+
+Responsive and mobile-first design
+
+Preparing to learn React.js
+
+Career Objective
+
+To secure an entry-level Frontend Developer position where I can apply my technical skills, contribute to real-world projects, and continuously grow as a software developer.
+
+⭐ Open to internships, entry-level roles, and freelance opportunities.
