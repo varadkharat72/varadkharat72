@@ -1,77 +1,44 @@
-🚀 Varad Kharat
-Frontend Developer | Building Clean & Responsive Web Experiences
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Future+React+Developer;Always+Learning+🚀" /> </p>
-🌌 About Me
-const varad = {
-  role: "Frontend Developer",
-  skills: ["HTML", "CSS", "JavaScript"],
-  currentlyLearning: ["Advanced JS", "APIs", "Responsive Design"],
-  goal: "Become a professional React Developer",
-  mindset: "Build → Learn → Improve → Repeat"
-};
+# Hi, I'm Varad 👋
 
 
-💡 I’m a beginner frontend developer focused on writing clean code, building responsive UI, and improving through real-world projects.
+## 👨‍💻 About Me 
 
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github" /> </p>
-🚀 Featured Projects
-🌐 LinkedIn Clone
+I’m a beginner **Frontend Web Developer** focused on building clean and responsive user interfaces using **HTML, CSS, and JavaScript**. 
+I’m currently learning web development through hands-on projects and improving my skills in: 
+- DOM Manipulation
+- Basic JavaScript Logic
+- Working with APIs
+-  Writing clean and readable code
 
-Built with HTML & CSS
 
-Focused on layout & responsiveness
+ ## 🚀 Projects Here are some of the projects I’ve built so far:  
+ 
+ - **LinkedIn Clone** Built using HTML & CSS to practice layouts and responsive design. 
+ - **Quiz App** Developed using HTML, CSS, and JavaScript with DOM manipulation. -
+ - **Weather App** Uses a basic weather API to fetch and display real-time weather data.
 
-Improved UI structuring skills
+ 
+ ## 🛠️ Tech Stack 
+ 
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-🧠 Quiz App
 
-DOM manipulation
+## 📈 Currently Learning 
 
-Event handling
+- Advanced JavaScript
+- Better DOM practice
+- API handling & async JavaScript
+- Responsive web design
 
-Dynamic rendering logic
 
-🌦 Weather App
+## 📫 Contact Me 
 
-Integrated real-time Weather API
+- Email: kharatvarad12@gmail.com
+- GitHub: [varadkharat72](https://github.com/varadkharat72)
+- LinkedIn: [varad-kharat](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-Used fetch & async/await
 
-Displayed live weather data
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadkharat72&theme=tokyonight" /> </p>
-📈 Currently Leveling Up
-
-⚡ Advanced JavaScript
-
-🌍 API Handling
-
-📱 Responsive Design Mastery
-
-⚛️ Preparing for React
-
-🎯 2026 Vision
-
-✅ 10+ real-world projects
-
-✅ Master React
-
-✅ Land a frontend job
-
-✅ Contribute to open-source
-
-📫 Let’s Connect
-
-📧 kharatvarad12@gmail.com
-
-💻 GitHub: varadkharat72
-
-🔗 LinkedIn: varad-kharat
-
-⚡ Fun Touch (Optional Add This)
-
-Add this visitor counter at bottom:
-
-<img src="https://komarev.com/ghpvc/?username=varadkharat72&label=Profile%20Views&color=0e75b6&style=flat" />
+--- ⭐ Always learning, building, and improving
