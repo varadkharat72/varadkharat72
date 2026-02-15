@@ -1,48 +1,95 @@
-# Hi, I'm Varad 👋
+👋 Hey, I'm Varad Kharat
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFB2&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+%26+Advanced+JS;Building+Projects+Everyday+🚀" /> </p>
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+✨ I’m a passionate Frontend Web Developer (Beginner) focused on building clean, responsive and user-friendly interfaces.
 
-I’m a beginner **Frontend Web Developer** focused on building clean and responsive user interfaces using **HTML, CSS, and JavaScript**.
+I love turning ideas into real web experiences using:
 
-I’m currently learning web development through hands-on projects and improving my skills in:
-- DOM Manipulation
-- Basic JavaScript Logic
-- Working with APIs
-- Writing clean and readable code
+💻 HTML
 
-## 🚀 Projects
+🎨 CSS
 
-Here are some of the projects I’ve built so far:
+⚡ JavaScript
 
-- **LinkedIn Clone**  
-  Built using HTML & CSS to practice layouts and responsive design.
+Currently improving my skills by building real-world projects and practicing daily.
 
-- **Quiz App**  
-  Developed using HTML, CSS, and JavaScript with DOM manipulation.
+🚀 My Projects
+🔹 LinkedIn Clone
 
-- **Weather App**  
-  Uses a basic weather API to fetch and display real-time weather data.
+🛠 Built using HTML & CSS
 
-## 🛠️ Tech Stack
+Practiced layouts
 
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+Improved responsive design skills
 
-## 📈 Currently Learning
+Strengthened CSS positioning concepts
 
-- Advanced JavaScript
-- Better DOM practices
-- API handling & async JavaScript
-- Responsive web design
+🔹 Quiz App
 
-## 📫 Contact Me
+🛠 Built using HTML, CSS & JavaScript
 
-- Email: kharatvarad12@gmail.com
-- GitHub: [varadkharat72](https://github.com/varadkharat72)
-- LinkedIn: [varad-kharat](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+DOM manipulation
 
----
+Event handling
 
-⭐ Always learning, building, and improving.
+Dynamic question rendering
+
+🔹 Weather App
+
+🛠 Built using HTML, CSS & JavaScript
+
+API integration
+
+Fetch & async handling
+
+Real-time weather data display
+
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github" /> </p>
+
+HTML5
+
+CSS3
+
+JavaScript (ES6 Basics)
+
+Git & GitHub
+
+📈 Currently Learning
+
+🔥 Advanced JavaScript
+
+📦 Better DOM Practices
+
+🌐 API Handling & Async JavaScript
+
+📱 Responsive Web Design
+
+⚛️ Preparing to Learn React
+
+🎯 2026 Goals
+
+Build 10+ real-world projects
+
+Contribute to open-source
+
+Get a Frontend Developer job
+
+Become confident in React
+
+📫 Connect With Me
+
+📧 Email: kharatvarad12@gmail.com
+
+💻 GitHub: varadkharat72
+
+🔗 LinkedIn: varad-kharat
+
+💡 Developer Mindset
+
+“Consistency beats talent when talent doesn’t work consistently.”
+
+⭐ Always learning.
+🚀 Always building.
+📈 Always improving.
