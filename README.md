@@ -1,91 +1,77 @@
-Varad Kharat
+🚀 Varad Kharat
+Frontend Developer | Building Clean & Responsive Web Experiences
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Future+React+Developer;Always+Learning+🚀" /> </p>
+🌌 About Me
+const varad = {
+  role: "Frontend Developer",
+  skills: ["HTML", "CSS", "JavaScript"],
+  currentlyLearning: ["Advanced JS", "APIs", "Responsive Design"],
+  goal: "Become a professional React Developer",
+  mindset: "Build → Learn → Improve → Repeat"
+};
 
-Frontend Web Developer
 
-📍 India
+💡 I’m a beginner frontend developer focused on writing clean code, building responsive UI, and improving through real-world projects.
+
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github" /> </p>
+🚀 Featured Projects
+🌐 LinkedIn Clone
+
+Built with HTML & CSS
+
+Focused on layout & responsiveness
+
+Improved UI structuring skills
+
+🧠 Quiz App
+
+DOM manipulation
+
+Event handling
+
+Dynamic rendering logic
+
+🌦 Weather App
+
+Integrated real-time Weather API
+
+Used fetch & async/await
+
+Displayed live weather data
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=varadkharat72&theme=tokyonight" /> </p>
+📈 Currently Leveling Up
+
+⚡ Advanced JavaScript
+
+🌍 API Handling
+
+📱 Responsive Design Mastery
+
+⚛️ Preparing for React
+
+🎯 2026 Vision
+
+✅ 10+ real-world projects
+
+✅ Master React
+
+✅ Land a frontend job
+
+✅ Contribute to open-source
+
+📫 Let’s Connect
+
 📧 kharatvarad12@gmail.com
 
-🔗 GitHub: https://github.com/varadkharat72
+💻 GitHub: varadkharat72
 
-🔗 LinkedIn: https://www.linkedin.com/in/varad-kharat
+🔗 LinkedIn: varad-kharat
 
-Professional Summary
+⚡ Fun Touch (Optional Add This)
 
-Motivated and detail-oriented Frontend Web Developer with hands-on experience in building responsive and interactive web applications using HTML, CSS, and JavaScript. Strong understanding of DOM manipulation, API integration, and clean code practices. Passionate about continuous learning and developing scalable user interfaces.
+Add this visitor counter at bottom:
 
-Technical Skills
-
-Frontend Technologies:
-
-HTML5
-
-CSS3
-
-JavaScript (ES6 basics)
-
-Core Concepts:
-
-DOM Manipulation
-
-Event Handling
-
-API Integration (Fetch, Async/Await)
-
-Responsive Web Design
-
-Basic JavaScript Logic
-
-Tools & Version Control:
-
-Git
-
-GitHub
-
-Projects
-LinkedIn Clone
-
-Technologies: HTML, CSS
-
-Developed a responsive layout inspired by LinkedIn.
-
-Implemented modern CSS positioning and layout techniques.
-
-Improved understanding of UI structure and design consistency.
-
-Quiz Application
-
-Technologies: HTML, CSS, JavaScript
-
-Built an interactive quiz app using DOM manipulation.
-
-Implemented dynamic question rendering and score calculation.
-
-Practiced event handling and conditional logic.
-
-Weather Application
-
-Technologies: HTML, CSS, JavaScript, Weather API
-
-Integrated a public weather API to fetch real-time data.
-
-Used Fetch API and async/await for handling asynchronous requests.
-
-Displayed dynamic weather information based on user input.
-
-Currently Learning
-
-Advanced JavaScript
-
-Asynchronous JavaScript (Promises, Async/Await)
-
-Improved DOM optimization practices
-
-Responsive and mobile-first design
-
-Preparing to learn React.js
-
-Career Objective
-
-To secure an entry-level Frontend Developer position where I can apply my technical skills, contribute to real-world projects, and continuously grow as a software developer.
-
-⭐ Open to internships, entry-level roles, and freelance opportunities.
+<img src="https://komarev.com/ghpvc/?username=varadkharat72&label=Profile%20Views&color=0e75b6&style=flat" />
