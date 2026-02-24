@@ -39,7 +39,7 @@ I’m a passionate frontend web developer focused on building clean, responsive,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="ReactJS"/>
 
   <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="TailwindCSS"/>
+  <img src="https://th.bing.com/th/id/OIP.hIi-E9h7_IvoHuzJje29RAHaFj?w=235&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" width="45" height="45" alt="TailwindCSS"/>
 
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
@@ -60,8 +60,8 @@ I’m a passionate frontend web developer focused on building clean, responsive,
 
 <br />
 <br/>
----
 
+---
 
 - **Frontend:** ReactJS, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)
 - **Version Control:** Git & GitHub
