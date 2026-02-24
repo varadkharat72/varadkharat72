@@ -28,17 +28,39 @@ I’m a passionate frontend web developer focused on building clean, responsive,
 
 ### 🌐 Languages & Tools
 
+---
+
 #### Frontend / UI
 
-<p>
-  <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
-  <img align="left" alt="TailwindCSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" />
-  <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
-  <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" />
-  <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" />
+
+<p align="left">
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="ReactJS"/>
+
+  <!-- Tailwind -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="TailwindCSS"/>
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
 </p>
+
 <br />
 <br/>
+---
 
 
 - **Frontend:** ReactJS, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)
