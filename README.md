@@ -38,7 +38,7 @@ I’m a passionate frontend web developer focused on building clean, responsive,
   <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" />
 </p>
 <br />
-
+<br/>
 
 
 - **Frontend:** ReactJS, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)
