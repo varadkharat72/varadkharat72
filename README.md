@@ -5,13 +5,7 @@
 <h1 align="center">Hi 👋, I'm Varad Kharat</h1>
 <h3 align="center">A Frontend Web Developer 🚀 | ReactJS & TailwindCSS Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/varadkharat72">
-    <img src="https://img.shields.io/github/followers/varadkharat72?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <img src="https://img.shields.io/github/repo-size/varadkharat72/varadkharat72" alt="Repo Size">
-  <img src="https://img.shields.io/github/last-commit/varadkharat72/varadkharat72" alt="Last Commit">
-</p>
+
 
 ---
 
