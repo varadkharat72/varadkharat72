@@ -39,6 +39,8 @@ I’m a passionate frontend web developer focused on building clean, responsive,
 </p>
 <br />
 
+
+
 - **Frontend:** ReactJS, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)
 - **Version Control:** Git & GitHub
 - **Tools:** VS Code, npm / Yarn
