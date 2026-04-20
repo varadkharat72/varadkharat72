@@ -27,7 +27,7 @@ I’m a passionate frontend web developer focused on building clean, responsive,
 #### Frontend / UI
 
 
-<p align="left">
+<p >
 
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="ReactJS"/>
