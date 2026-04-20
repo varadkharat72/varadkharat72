@@ -11,7 +11,8 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate frontend web developer focused on building clean, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world applications using modern web technologies and best practices. I’m constantly learning and refining my skills to deliver scalable and optimized solutions. :contentReference[oaicite:2]{index=2}
+I’m a passionate frontend web developer focused on building clean, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world applications using modern web technologies and best practices. I’m constantly learning and refining my skills to deliver scalable and optimized solutions. 
+:contentReference[oaicite:2]{index=2}
 
 - 🔭 I’m currently building projects with **ReactJS**, **TailwindCSS**, and modern JavaScript.
 - 💻 I love creating interactive UIs and performant web experiences.
