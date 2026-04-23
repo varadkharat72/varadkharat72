@@ -68,6 +68,7 @@ Here are some projects I’ve built that showcase my skills and growth as a deve
 | **Quiz-app** | Interactive Quiz Game | JavaScript, DOM |
 | **LinkedIn-Clone** | Frontend clone of LinkedIn landing pages | HTML, CSS |
 | **E-Commerce_web** | A simple e-commerce frontend demo | ReactJS, TailwindCSS |
+| **Employee Management System** | EMS with using localhost | ReactJS, TailwindCSS |
 
 > ⚡ *More projects are available on my GitHub — feel free to explore and provide feedback!*
 
