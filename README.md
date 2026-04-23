@@ -37,7 +37,7 @@ I'm a **Frontend Developer** who loves building clean, responsive, and user-frie
 ## 📊 GitHub Stats
 
 ![Varad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varadkharat72&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varadkharat72&layout=compact&theme=default&hide_border=true)
 
 > Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
