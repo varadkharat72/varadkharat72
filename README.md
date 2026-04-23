@@ -1,87 +1,54 @@
-<!--
-**varadkharat72/varadkharat72** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+# Hi, I'm Varad Kharat 👋
 
-<h1 align="center">Hi 👋, I'm Varad Kharat</h1>
-<h3 align="center">A Frontend Web Developer 🚀 | ReactJS & TailwindCSS Enthusiast</h3>
-
-
+I'm a **Frontend Developer** who loves building clean, responsive, and user-friendly web applications.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-I’m a passionate frontend web developer focused on building clean, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world applications using modern web technologies and best practices. I’m constantly learning and refining my skills to deliver scalable and optimized solutions. 
+**Languages & Markup**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently building projects with **ReactJS**, **TailwindCSS**, and modern JavaScript.
-- 💻 I love creating interactive UIs and performant web experiences.
-- 📚 I’m keen on improving in advanced JavaScript, React ecosystem, and UI/UX design.
-- 🌱 I’m open to collaboration, mentorship, and real-world opportunities.
-
----
-
-### 🌐 Languages & Tools
-
----
-
-#### Frontend / UI
-
-
-<p >
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="ReactJS"/>
-
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS"/>
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-
-</p>
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
-- **Frontend:** ReactJS, TailwindCSS, HTML5, CSS3, JavaScript (ES6+)
-- **Version Control:** GitHub
-- **Tools:** VS Code
+## 🚀 Projects
+
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🔗 Project Name | Short description of what it does | React, Tailwind, REST API |
+| 🔗 Project Name | Short description of what it does | HTML, CSS, JavaScript |
+| 🔗 Project Name | Short description of what it does | React, Git |
+
+> Replace the rows above with your actual projects and GitHub links.
 
 ---
 
-### 📌 Featured Projects
+## 📊 GitHub Stats
 
-Here are some projects I’ve built that showcase my skills and growth as a developer: :contentReference[oaicite:3]{index=3}
+![Varad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Weather-App** | Real-time Weather Application using APIs | HTML, CSS, JavaScript |
-| **Quiz-app** | Interactive Quiz Game | JavaScript, DOM |
-| **LinkedIn-Clone** | Frontend clone of LinkedIn landing pages | HTML, CSS |
-| **E-Commerce_web** | A simple e-commerce frontend demo | ReactJS, TailwindCSS |
-| **Employee Management System** | EMS with using localhost | ReactJS, TailwindCSS |
-
-> ⚡ *More projects are available on my GitHub — feel free to explore and provide feedback!*
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ---
 
-### 📫 Contact Me
+## 📬 Connect With Me
 
-I’m always open to discussing new projects, creative ideas, or collaboration opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
-- 📧 Email: **kharatvarad12@gmail.com**  
-- 🔗 GitHub: https://github.com/varadkharat72  
-- 🔗 LinkedIn: https://www.linkedin.com/in/varad-kharat
+> Replace `YOUR_LINKEDIN_USERNAME` with your actual LinkedIn profile URL slug.
 
 ---
 
-⭐ *Thanks for visiting my profile — Always learning, building, and improving!*  
+*Thanks for stopping by! 😊*
