@@ -68,20 +68,6 @@ I'm continuously improving my development skills and exploring modern technologi
 
 ---
 
-## 📊 GitHub Stats
-
-![Varad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varadkharat72\&show_icons=true\&theme=default\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varadkharat72\&layout=compact\&theme=default\&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=varadkharat72\&theme=default\&hide_border=true)
-
----
-
 ## 🎯 Currently
 
 * 🔭 Building full-stack applications with the **MERN stack**
