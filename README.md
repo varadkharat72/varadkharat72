@@ -2,7 +2,7 @@
 
 ### 🚀 MERN Stack Developer | Full Stack Web Developer
 
-I'm a **MERN Stack Developer** passionate about building modern, scalable, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products using **React, Node.js, Express.js, and MongoDB**.
+I'm a **MERN Stack Developer** passionate about building modern, scalable, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products using **React, Next.js, Node.js, Express.js, and MongoDB**.
 
 I'm continuously improving my development skills and exploring modern technologies to build better full-stack applications.
 
@@ -44,24 +44,25 @@ I'm continuously improving my development skills and exploring modern technologi
 
 ## 🚀 Featured Projects
 
-| Project                    | Description                                                                                                  | Tech Stack                                 |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| 🧑‍💼 **HireFlow**         | Full-stack recruitment & ATS platform for managing candidates, hiring workflows, and recruitment operations. | MERN, TypeScript, JWT, Redux, Tailwind     |
-| 🛒 **E-Commerce Platform** | Responsive e-commerce application with product management, cart functionality, payments, and admin features. | React, Node.js, Express, MongoDB, Razorpay |
-| 🌦️ **Weather App**        | Responsive weather application that fetches and displays real-time weather information using an API.         | HTML, CSS, JavaScript, REST API            |
-| 🧠 **Quiz App**            | Interactive quiz application with dynamic questions and user-friendly interface.                             | HTML, CSS, JavaScript                      |
+| Project                    | Description                                                                                                                                          | Tech Stack                                 |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| ▶️ **YourTube Clone**      | Full-stack video streaming platform inspired by modern video-sharing applications, built with a modern frontend and MERN-based backend architecture. | MERN, Next.js, TypeScript, Tailwind CSS    |
+| 🛒 **E-Commerce Platform** | Responsive e-commerce application with product management, cart functionality, payment integration, and admin features.                              | React, Node.js, Express, MongoDB, Razorpay |
+| 🌦️ **Weather App**        | Responsive weather application that fetches and displays real-time weather information using an external API.                                        | HTML, CSS, JavaScript, REST API            |
+| 🧠 **Quiz App**            | Interactive quiz application with dynamic questions and a clean, user-friendly interface.                                                            | HTML, CSS, JavaScript                      |
 
 ---
 
 ## 💡 What I Build
 
 * 🌐 Full-stack web applications
-* ⚛️ Modern React applications
+* ⚛️ Modern React & Next.js applications
 * 🔐 Authentication & authorization systems
 * 🔗 RESTful APIs
 * 🗄️ MongoDB database applications
 * 📊 Admin dashboards
 * 🛒 E-commerce applications
+* ▶️ Video streaming platforms
 * 📱 Responsive & mobile-friendly interfaces
 * 🚀 Scalable MERN applications
 
@@ -104,4 +105,5 @@ I'm continuously improving my development skills and exploring modern technologi
 I'm always interested in learning, building new projects, and connecting with other developers.
 
 **Thanks for visiting my profile! ⭐**
+
 
